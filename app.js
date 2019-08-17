@@ -1,1 +1,1 @@
-console.log("THIs iS mY ComPleX ApP")
+console.log("THIs iS mY ComPleX ApP");
